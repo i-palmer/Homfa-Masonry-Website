@@ -7,7 +7,7 @@ export default function Navbar() {
             <div className="pl-[20px] h-[45px] flex items-center">
                 <img 
                     className="w-[100px]" 
-                    src="Images\hofma-masonry-low-resolution-logo-color-on-transparent-background.png"
+                    src="/hofma-masonry-low-resolution-logo-color-on-transparent-background.png"
                     />
             </div>
             <hr className="h-[1px] bg-[#363636] border-0"/>
