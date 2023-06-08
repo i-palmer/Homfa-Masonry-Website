@@ -1,22 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.border {
-    background-color: gray;
-  }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(auto, auto));
-    grid-gap: 1px;
-  }
-  .grid > div {
-    background-color: white;
-    padding: 10px;
-  }
-
-  /* .hr {
-    height: 100px;
-        background-color: red;
-        border: none;
-  } */
