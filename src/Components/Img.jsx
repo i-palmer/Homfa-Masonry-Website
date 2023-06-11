@@ -22,7 +22,7 @@ const ResponsiveImage = () => {
         <img src="/IMG_20151023_164855637.jpg" alt="Mobile" className="rounded-t-[20px]"/>
       )}
       {windowWidth >= 640 && (
-        <img src="/IMG_20170524_161141065.jpg" alt="Desktop" className="rounded-t-[20px]"/>
+        <img src="/IMG_20170524_161141065.jpg" alt="Desktop" className="rounded-t-[20px] mdLg:rounded-t-[30px] 2xl:w-[450px]"/>
       )}
     </div>
   );
