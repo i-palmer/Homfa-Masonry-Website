@@ -3,6 +3,7 @@ import * as React from 'react';
 import ChooseMe from './ChooseMe';
 import AboutMe from './AboutMe';
 import Navbar from './Navbar'
+import MyWork from './MyWork';
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
         <AboutMe/>
       </div>
         <ChooseMe/>
+        <MyWork />
     </div>
   ); 
 }

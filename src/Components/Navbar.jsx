@@ -8,7 +8,9 @@ export default function Navbar() {
                 <img 
                     className="col-span-6 sm:col-span-5" 
                     src="/hofma-masonry-low-resolution-logo-color-on-transparent-background.png"
-                    />
+                />
+                <h1 className="text-white col-start-8 col-span-2 text-[10px]">Contact Me</h1>
+                <h1 className="text-white col-start-11 col-span-2 text-[10px]">My Work</h1>
             </div>
             <hr className="h-[1px] bg-[#363636] border-0"/>
         </div>
